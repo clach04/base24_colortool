@@ -2,6 +2,7 @@
 
 [Base24] template / themes for use with CMD.exe colortool / Color Tool April 2019 from https://github.com/microsoft/terminal/releases/tag/1904.29002 built using [Tinted Theming color schemes].
 
+If you are using Microsoft Terminal, see https://github.com/tinted-theming/tinted-terminal/ for color themes.
 
 ## Previews
 
