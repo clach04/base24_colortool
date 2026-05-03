@@ -4,6 +4,9 @@
 
 If you are using Microsoft Terminal, see https://github.com/tinted-theming/tinted-terminal/ for color themes.
 
+NOTE https://github.com/tinted-theming/tinted-terminal/tree/main/themes/iterm2 can be used with ColorTool
+but if you want to review/edit the theme / color scheme the .ini format that this project uses are easier for humans to review.
+
 ## Previews
 
 See https://github.com/clach04/base24_colortool/tree/main/docs/images for some sample CMD ColorTool.exe screen shots.
