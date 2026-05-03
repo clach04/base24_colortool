@@ -6,7 +6,12 @@ If you are using Microsoft Terminal, see https://github.com/tinted-theming/tinte
 
 ## Previews
 
-TODO screenshots.
+See https://github.com/clach04/base24_colortool/tree/main/docs/images for some sample CMD ColorTool.exe screen shots.
+
+See https://tinted-theming.github.io/tinted-gallery/ for gallery of all color schemes.
+This page shows all supported color themes, using a bash script
+https://github.com/tinted-theming/tinted-gallery/blob/main/build.sh
+as the demo syntax highlighted file (as seen in vim).
 
 ## Installation
 
