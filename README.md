@@ -1,6 +1,6 @@
 # base24_colortool <img alt="Color wheel" src="https://raw.githubusercontent.com/tinted-theming/home/refs/heads/main/color_wheel.png" width="100" align="right" style="padding-top:0.6rem;">
 
-[Base24] template / themes for use with CMD.exe colortool / Color Tool April 2019 from https://github.com/microsoft/terminal/releases/tag/1904.29002 built using [Tinted Theming color schemes].
+[Base24] template / themes for use with CMD.exe colortool / Color Tool April 2019 from https://github.com/microsoft/terminal/releases/tag/1904.29002 built using [Tinted Theming color schemes] or cmd_set_colors.exe from https://github.com/clach04/colortool_alt
 
 If you are using Microsoft Terminal, see https://github.com/tinted-theming/tinted-terminal/ for color themes.
 
